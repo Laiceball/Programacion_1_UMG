@@ -8,9 +8,9 @@ int main () {
     cin >> ent1 >> ent2;
 
     if (ent1 > ent2){
-        cout << ent1 << "es más grande" << endl;
+        cout << ent1 << " es más grande" << endl;
     } else if (ent1 < ent2) {
-        cout << ent2 << "es más grande" << endl;
+        cout << ent2 << " es más grande" << endl;
     } else {
         cout << "los numeros son iguales ;) "<< endl;
     }

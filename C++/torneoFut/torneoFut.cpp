@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include <cstdlib> // para rand
+#include <cstdlib>
 #include <ctime>
 
 using namespace std;

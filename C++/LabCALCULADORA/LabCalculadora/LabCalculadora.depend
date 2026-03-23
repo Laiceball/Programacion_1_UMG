@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1774282008 source:c:\users\jjavi\onedrive\documentos\p1 c++\programacion_1_umg\c++\labcalculadora\labcalculadora\main.cpp
+	<iostream>
+	"calculadora.h"
+
+1774281944 source:c:\users\jjavi\onedrive\documentos\p1 c++\programacion_1_umg\c++\labcalculadora\labcalculadora\src\calculadora.cpp
+	"calculadora.h"
+	<iostream>
+
+1774281334 c:\users\jjavi\onedrive\documentos\p1 c++\programacion_1_umg\c++\labcalculadora\labcalculadora\include\calculadora.h
+
